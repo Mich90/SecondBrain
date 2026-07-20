@@ -1,0 +1,24 @@
+{
+  "id": "conv-1782893766273-fkbm5n03p",
+  "providerId": "claude",
+  "title": "starte anmeldeung",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782893766273,
+  "updatedAt": 1784535228801,
+  "lastResponseAt": 1782893768026,
+  "sessionId": "e4821d73-7cd6-4e96-b44c-6a5b6ff69ae6",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "e4821d73-7cd6-4e96-b44c-6a5b6ff69ae6"
+  },
+  "currentNote": "01 Projects/01 Grouper/Grouper Project Overview.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

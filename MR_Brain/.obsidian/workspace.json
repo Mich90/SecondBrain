@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "e77e0747f1cf33cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d58cf782cd3b6e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e88632d82b40fe4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 System/Templates/Template 1zu1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template 1zu1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bcf71b93264b2f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f3cac331c8c4a6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbe3abc8f2050358",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "13c802686d9ee37e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "e034cd816e06ce97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24cb03bdc7178802",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a88c22fd55788d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ba1400c4f360b97",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Projects/02 eisTIKNextGen/eisTIK® NEXT GEN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf eisTIK® NEXT GEN"
+            }
+          },
+          {
+            "id": "5445e1cc8b437372",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Projects/02 eisTIKNextGen/eisTIK® NEXT GEN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von eisTIK® NEXT GEN öffnen"
+            }
+          },
+          {
+            "id": "1612e31acbcdd52e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ced5a78af6ee21f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "552bf63541e5c1ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Projects/02 eisTIKNextGen/eisTIK® NEXT GEN.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von eisTIK® NEXT GEN"
+            }
+          },
+          {
+            "id": "da63cd7522d920c8",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
+            }
+          },
+          {
+            "id": "550a892a58d06fc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "01 Projects/02 eisTIKNextGen/eisTIK® NEXT GEN.md"
+              },
+              "icon": "lucide-info",
+              "title": "Dateieigenschaften von eisTIK® NEXT GEN"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 641.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
+    }
+  },
+  "active": "9e88632d82b40fe4",
+  "lastOpenFiles": [
+    "03 Personen/Bernd Weigl.md",
+    "00 System/Start hier – Anleitung.md",
+    "03 Personen/Stephan Werthebach.md",
+    "00 System/Templates/Template Person.md",
+    "00 System/Templates/Template Projekt.md",
+    "00 System/Templates/Template Weekly Review.md",
+    "02 Ich/Prinzipien.md",
+    "03 Personen/Philipp Knüchel.md",
+    "02 Ich/Über mich.md",
+    "03 Personen/Nils Wittig.md",
+    "03 Personen/Marcel Thier.md",
+    "03 Personen/Mario Zube.md",
+    "03 Personen/Marcel Bulst.md",
+    "01 Projects/02 CGM Health BI/CGM Health BI – Projektsteuerung.md",
+    "01 Projects/02 CGM Health BI/CGM Health BI.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/03 Pflichtenheft Gruppe 3/pflichtenheft-kapitel-5-6.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/03 Pflichtenheft Gruppe 3/pflichtenheft-kapitel-5-6.xlsx",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/03 Pflichtenheft Gruppe 3/00-strukturpruefung-und-vorschlag.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/11-konsolidierung-zusammenfassung.docx",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/README.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/09-konsolidierung-tag1.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/08-kai.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/04-markus.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/05-stephan.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/07-stefan.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/06-uta.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/01-michael.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/03-nils.md",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/03 Pflichtenheft Gruppe 3",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07/01 Workshop Allgemein",
+    "01 Projects/02 CGM Health BI/Workshop 2026-07",
+    "01 Projects/02 CGM Health BI",
+    "07 Inbox",
+    "06 Wissen",
+    "05 Entscheidungen"
+  ]
+}
