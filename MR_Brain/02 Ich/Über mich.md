@@ -48,3 +48,4 @@ SORT file.name ASC
 ## Wichtige Links
 - [[Prinzipien]]
 - [[Ziele 2026]]
+- [[Erfolge]]
