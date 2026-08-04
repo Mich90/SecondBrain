@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "07d16fcf05dedf74",
+        "id": "fe74a355d3066ff4",
         "type": "tabs",
         "children": [
           {
-            "id": "5b3621f704f1cd27",
+            "id": "6929f962a3bc5643",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "06 Wissen/C5 Katalog 2026/C5 Katalog 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C5 Katalog 2026"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 385.5
   },
   "right": {
     "id": "24cb03bdc7178802",
@@ -204,43 +208,43 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5b3621f704f1cd27",
+  "active": "cbe3abc8f2050358",
   "lastOpenFiles": [
-    "02 Ich/Erfolge.md",
-    "04 Meetings/2026-07-27 1zu1 Nils Wittig.md",
-    "03 Personen/Nils Wittig.md",
-    "02 Ich/Ziele 2026.md",
-    "01 Projects/02 CGM Health BI/MARE Connector/Was ist MARE.md",
-    "01 Projects/02 CGM Health BI/MARE Connector/Vorteile CGM Health BI & MARE.md",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/Ergebnis – Zielbild & Vorgehen.md",
-    "01 Projects/02 CGM Health BI/CGM Health BI – Projektsteuerung.md",
-    "01 Projects/02 CGM Health BI/MARE Connector",
-    "01 Projects/02 CGM Health BI/CGM Health BI.md",
-    "00 System/Templates/Template 1zu1.md",
-    "03 Personen/Bernd Weigl.md",
-    "00 System/Start hier – Anleitung.md",
-    "03 Personen/Stephan Werthebach.md",
-    "00 System/Templates/Template Person.md",
-    "00 System/Templates/Template Projekt.md",
-    "00 System/Templates/Template Weekly Review.md",
-    "02 Ich/Prinzipien.md",
-    "03 Personen/Philipp Knüchel.md",
-    "02 Ich/Über mich.md",
-    "03 Personen/Marcel Thier.md",
-    "03 Personen/Mario Zube.md",
-    "03 Personen/Marcel Bulst.md",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/03 Pflichtenheft Gruppe 3/pflichtenheft-kapitel-5-6.md",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/03 Pflichtenheft Gruppe 3/pflichtenheft-kapitel-5-6.xlsx",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/03 Pflichtenheft Gruppe 3/00-strukturpruefung-und-vorschlag.md",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/11-konsolidierung-zusammenfassung.docx",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/README.md",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben/09-konsolidierung-tag1.md",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/02 Hausaufgaben",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/03 Pflichtenheft Gruppe 3",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07/01 Workshop Allgemein",
-    "01 Projects/02 CGM Health BI/Workshop 2026-07",
-    "01 Projects/02 CGM Health BI",
-    "07 Inbox",
-    "06 Wissen"
+    "06 Wissen/C5 Katalog 2026/05 Physical Security (PS)/PS-01 Physical Security and Environmental Control Requirements.md",
+    "PS-01.md",
+    "06 Wissen/C5 Katalog 2026/C5 Katalog 2026.md",
+    "06 Wissen/C5 Katalog 2026/02 Security Policies and Procedures (SP)/SP-01 Documentation, Communication and Provision of Policies and Procedures.md",
+    "SP-02.md",
+    "SP-01.md",
+    "06 Wissen/C5 Katalog 2026/01 Organisation of Information Security (OIS)/OIS-01 Information Security Management System (ISMS).md",
+    "06 Wissen/C5 Katalog 2026/15 Compliance (COM)/COM-01 Identification of Applicable Legal, Regulatory, Self-imposed or Contractual Requirements.md",
+    "06 Wissen/C5 Katalog 2026/14 Business Continuity Management (BCM)/BCM-02 Business Impact Analysis.md",
+    "06 Wissen/C5 Katalog 2026/14 Business Continuity Management (BCM)/BCM-01 Business Continuity and Emergency Management System.md",
+    "06 Wissen/C5 Katalog 2026/07 Identity and Access Management (IAM)/IAM-01 Policy for Identities and Access Rights.md",
+    "06 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-12 Region of Data Processing and Storage.md",
+    "06 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-11 Images for Virtual Machines and Containers.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-15 Exceptions to the Change Management Process.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-14 Secure Use of Third Party Hardware and Software.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-13 Transparency about Software Components.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-12 Separation of Environments.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-11 Protection of Development and Test Environments.md",
+    "06 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-10 Software Defined Networking.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-10 Approvals for Provision in the Production Environment.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-09 Version Control.md",
+    "06 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-09 Authorisation Mechanisms.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-08 Logging of Changes.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-07 Testing Changes.md",
+    "06 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-08 Roles and Rights Framework.md",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)/DEV-06 Risk Assessment, Categorisation and Prioritisation of Changes.md",
+    "06 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)",
+    "06 Wissen/C5 Katalog 2026/16 Dealing with Investigation Requests from Government Agencies (INQ)",
+    "06 Wissen/C5 Katalog 2026/15 Compliance (COM)",
+    "06 Wissen/C5 Katalog 2026/14 Business Continuity Management (BCM)",
+    "06 Wissen/C5 Katalog 2026/13 Security Incident Management (SIM)",
+    "06 Wissen/C5 Katalog 2026/12 Control and Monitoring of Service Providers and Suppliers (SSO)",
+    "06 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)",
+    "06 Wissen/C5 Katalog 2026/10 Portability and Interoperability (PI)",
+    "06 Wissen/C5 Katalog 2026/09 Communication Security (COS)",
+    "06 Wissen/C5 Katalog 2026/08 Cryptography and Key Management (CRY)"
   ]
 }

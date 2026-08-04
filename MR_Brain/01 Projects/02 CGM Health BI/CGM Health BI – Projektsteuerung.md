@@ -27,7 +27,7 @@ Nächste Produktgeneration des Data Warehouses **eisTIK®**, geführt unter dem 
 
 ## Wichtige Links
 - [[CGM Health BI]] – Projektbeschreibung
-- Workshop 2026-07: [[01 Workshop Allgemein/README|Workshop Allgemein]] · [[02 Hausaufgaben/README|Hausaufgaben]]
+- Workshop 2026-07: [[01 Projects/02 CGM Health BI/2026-07 Workshop/01 Workshop Allgemein/README|Workshop Allgemein]] · [[01 Projects/02 CGM Health BI/2026-07 Workshop/02 Hausaufgaben/README|Hausaufgaben]]
 
 ## Entscheidungen zu diesem Projekt
 ```dataview

@@ -17,6 +17,6 @@ Projekt zur nächsten Produktgeneration des Data Warehouses **eisTIK®**, ab jet
 
 ## Workshop 2026-07
 
-- Übersicht: [[01 Workshop Allgemein/README|Workshop Allgemein]]
-- Hausaufgaben: [[02 Hausaufgaben/README|Hausaufgaben]]
+- Übersicht: [[01 Projects/02 CGM Health BI/2026-07 Workshop/01 Workshop Allgemein/README|Workshop Allgemein]]
+- Hausaufgaben: [[01 Projects/02 CGM Health BI/2026-07 Workshop/02 Hausaufgaben/README|Hausaufgaben]]
 - Pflichtenheft Gruppe 3: [[pflichtenheft-kapitel-5-6|Kapitel 5 & 6]]

@@ -17,6 +17,7 @@ person: "[[Nils Wittig]]"
 ### Arbeitszeugnis [[Marcel Thier]]
 Aufgrund des Wechsels der Führungskraft angefordert – bei Nils bislang **nicht angekommen**.
 - **Frage:** Gibt es einen neuen Stand? Wo hängt es aktuell?
+- **Stand:** noch offen.
 
 ### Neubewertung der Stelle – Lyalya Samoilenko (QA MetaIPSS)
 Bittet um Neubewertung ihrer Stelle und ein Jahresgehalt von **55.000 €**. Begründung:
@@ -26,24 +27,26 @@ Bittet um Neubewertung ihrer Stelle und ein Jahresgehalt von **55.000 €**. Beg
 - Setzt KI-Tools bewusst ein: liest, prüft, verändert und integriert den Code selbst, statt ihn nur generieren zu lassen
 - Tätigkeit längst über manuelles Testing hinaus; direkter Vorgesetzter stuft sie als **Middle-Level** (nicht mehr Junior) ein
 - **Frage:** Weiteres Vorgehen unsererseits – Prozess, Zuständigkeit, Zeitrahmen?
+- **→ Nächster Schritt:** Mail an [[Philipp Knüchel]] weiterleiten mit weiteren Aktionen.
 
 ### Merit Michael Fursov – fehlende 5.000 €
 - **Frage:** Wann und bei wem sollen wir dieses Jahr wegen der fehlenden 5.000 € Merit nachfragen?
+- **Antwort:** Im **Februar** nachfragen.
 
 ### Österreich-Mitarbeiter – reine Information
 [[Mario Zube]] und Christian Tusch (wohnhaft in Österreich) sollten in die österreichische **Aescudata** umgezogen werden bzw. dort einen Arbeitsvertrag erhalten – nicht in Deutschland. Aktuell scheint das zu **stocken**.
-- *Nur zur Info / Kenntnisstand.*
+- **Stand:** Es laufen noch offene steuerrechtliche Prüfungen – es dauert noch.
 
 ### Rechnungen Christian Tusch
 Von AWS kommen monatlich ca. **900 €**.
-- **Frage:** Läuft das über EOH?
+- **→ Nächster Schritt:** Mit Christian prüfen – Ressourcen, Instanzen, Serviceniveau.
 
 ### Freigabe: Oliver Duchene – IT-Con Saarbrücken
 IT- und Cybersecurity-Messe.
 - Abwesenheit: 1 Arbeitstag
 - Eintritt: voraussichtlich 49 €
 - Keine Fahrt-, Park- oder Übernachtungskosten (Standort Saarbrücken)
-- **Frage:** Freigabe?
+- **→ Nächster Schritt:** Mit Oliver klären, welche Themen ihn reizen; wenn ok, Abrechnung über Reisekosten.
 
 ## Entwicklungsthemen
 - 
@@ -52,12 +55,12 @@ IT- und Cybersecurity-Messe.
 - *(größere Entscheidungen zusätzlich als eigene Notiz in [[05 Entscheidungen]] anlegen)*
 
 ## Action Items
-- [ ] Neuen Stand zum Arbeitszeugnis [[Marcel Thier]] einholen
-- [ ] Vorgehen zur Neubewertung Lyalya Samoilenko festlegen
-- [ ] Merit Michael Fursov (5.000 €) – Zeitpunkt & Ansprechpartner klären
-- [ ] AWS-Rechnungen Christian Tusch (~900 €/Monat) klären – EOH?
-- [ ] Freigabe IT-Con für Oliver Duchene dokumentieren
-- [ ] Status Österreich-Umzug ([[Mario Zube]], Christian Tusch) im Blick behalten
+- [ ] Arbeitszeugnis [[Marcel Thier]]: neuen Stand einholen
+- [x] Lyalya-Neubewertung: Mail an [[Philipp Knüchel]] weiterleiten mit weiteren Aktionen
+- [x] Michael Fursov: im **Februar** wegen der fehlenden 5.000 € Merit nachfragen
+- [x] AWS-Rechnungen Christian Tusch (~900 €/Monat) mit Christian prüfen – Ressourcen, Instanzen, Serviceniveau
+- [ ] Oliver Duchene / IT-Con: Themen mit ihm klären; bei OK Abrechnung über Reisekosten
+- [x] Österreich-Umzug ([[Mario Zube]], Christian Tusch): steuerrechtliche Prüfungen abwarten, im Blick behalten
 
 ## Für nächstes Mal
 - 
