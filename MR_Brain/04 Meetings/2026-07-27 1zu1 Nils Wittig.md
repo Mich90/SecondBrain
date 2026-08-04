@@ -55,12 +55,12 @@ IT- und Cybersecurity-Messe.
 - *(größere Entscheidungen zusätzlich als eigene Notiz in [[05 Entscheidungen]] anlegen)*
 
 ## Action Items
-- [ ] Arbeitszeugnis [[Marcel Thier]]: neuen Stand einholen
-- [x] Lyalya-Neubewertung: Mail an [[Philipp Knüchel]] weiterleiten mit weiteren Aktionen
-- [x] Michael Fursov: im **Februar** wegen der fehlenden 5.000 € Merit nachfragen
-- [x] AWS-Rechnungen Christian Tusch (~900 €/Monat) mit Christian prüfen – Ressourcen, Instanzen, Serviceniveau
-- [ ] Oliver Duchene / IT-Con: Themen mit ihm klären; bei OK Abrechnung über Reisekosten
-- [x] Österreich-Umzug ([[Mario Zube]], Christian Tusch): steuerrechtliche Prüfungen abwarten, im Blick behalten
+- [ ] Verantwortung: [[Eigene Action Items]] | Arbeitszeugnis [[Marcel Thier]] – neuen Stand einholen
+- [x] Verantwortung: [[Eigene Action Items]] | Lyalya-Neubewertung – Mail an [[Philipp Knüchel]] weiterleiten mit weiteren Aktionen
+- [x] Verantwortung: [[Eigene Action Items]] | im **Februar** wegen der fehlenden 5.000 € Merit für [[Michael Fursov]] nachfragen
+- [x] Verantwortung: [[Eigene Action Items]] | AWS-Rechnungen [[Christian Tusch]] (~900 €/Monat) mit ihm prüfen – Ressourcen, Instanzen, Serviceniveau
+- [ ] Verantwortung: [[Eigene Action Items]] | mit [[Oliver Duchene]] IT-Con-Themen klären; bei OK Abrechnung über Reisekosten
+- [x] Verantwortung: [[Eigene Action Items]] | Österreich-Umzug ([[Mario Zube]], [[Christian Tusch]]) – steuerrechtliche Prüfungen abwarten, im Blick behalten
 
 ## Für nächstes Mal
 - 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Shared/README.md",
+                "file": "02 Ich/Eigene Action Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Eigene Action Items"
             }
           }
         ]
@@ -211,6 +211,23 @@
   },
   "active": "6929f962a3bc5643",
   "lastOpenFiles": [
+    "03 Personen/Mario Zube.md",
+    "04 Meetings/2026-08-13 1zu1 Mario Zube.md",
+    "04 Meetings/2026-08-13 1zu1 Marcel Bulst.md",
+    "04 Meetings/2026-08-04 1zu1 Marcel Thier.md",
+    "04 Meetings/2026-08-03 1zu1 Nils Wittig.md",
+    "02 Ich/Eigene Action Items.md",
+    "04 Meetings/2026-07-27 1zu1 Nils Wittig.md",
+    "03 Personen/Marcel Thier.md",
+    "03 Personen/Marcel Bulst.md",
+    "03 Personen/Bernd Weigl.md",
+    "04 Meetings/2026-07-27 1zu1 Nils Wittig.md.ec56237a6d1013a0da49af65f6f35230.tmp",
+    "03 Personen/Nils Wittig.md",
+    "02 Ich/Ziele 2026.md",
+    "02 Ich/Über mich.md",
+    "02 Ich/Erfolge.md",
+    "02 Ich/Prinzipien.md",
+    "01 Shared/README.md",
     "01 Shared/01 Projects/01 Grouper/Architecture/DSL Engine.md",
     "01 Shared/02 Wissen/C5 Katalog 2026/C5 Katalog 2026.md",
     "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-11 Images for Virtual Machines and Containers.md",
@@ -221,22 +238,6 @@
     "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-07 Confidentiality of Authentication Information.md",
     "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-06 Session Management.md",
     "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-05 Authentication Mechanisms.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-04 Error handling and Logging Mechanisms.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-03 Informing Customers about Known Vulnerabilities.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-02 Identification of Vulnerabilities of the Cloud Service.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)/PSS-01 Guidelines and Recommendations for Cloud Service Customers.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/15 Compliance (COM)/COM-03 Internal Audits of the Information Security Management System.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/15 Compliance (COM)/COM-04 Information on Information Security Performance and Management Assessment of the ISMS.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/15 Compliance (COM)/COM-02 Policy for Planning and Conducting Audits.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/15 Compliance (COM)/COM-01 Identification of Applicable Legal, Regulatory, Self-imposed or Contractual Requirements.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/16 Dealing with Investigation Requests from Government Agencies (INQ)/INQ-03 Limiting Access to or Disclosure of Data in Investigation Requests.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/16 Dealing with Investigation Requests from Government Agencies (INQ)/INQ-04 Communication of Technical Procedures for Data Disclosure in Investigation Requests.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/16 Dealing with Investigation Requests from Government Agencies (INQ)/INQ-02 Informing Cloud Service Customers about Investigation Requests.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/16 Dealing with Investigation Requests from Government Agencies (INQ)/INQ-01 Legal Assessment of Investigation Requests.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/14 Business Continuity Management (BCM)/BCM-04 Testing Business Continuity.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/14 Business Continuity Management (BCM)/BCM-03 Business Continuity Plans.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/14 Business Continuity Management (BCM)/BCM-02 Business Impact Analysis.md",
-    "01 Shared/02 Wissen/C5 Katalog 2026/14 Business Continuity Management (BCM)/BCM-01 Business Continuity and Emergency Management System.md",
     "01 Shared/02 Wissen/C5 Katalog 2026/17 Product Safety and Security (PSS)",
     "01 Shared/02 Wissen/C5 Katalog 2026/15 Compliance (COM)",
     "01 Shared/02 Wissen/C5 Katalog 2026/16 Dealing with Investigation Requests from Government Agencies (INQ)",
@@ -245,7 +246,6 @@
     "01 Shared/02 Wissen/C5 Katalog 2026/12 Control and Monitoring of Service Providers and Suppliers (SSO)",
     "01 Shared/02 Wissen/C5 Katalog 2026/11 Procurement, Development and Modification of Information Systems (DEV)",
     "01 Shared/02 Wissen/C5 Katalog 2026/10 Portability and Interoperability (PI)",
-    "01 Shared/02 Wissen/C5 Katalog 2026/09 Communication Security (COS)",
-    "01 Shared/02 Wissen/C5 Katalog 2026/07 Identity and Access Management (IAM)"
+    "01 Shared/02 Wissen/C5 Katalog 2026/09 Communication Security (COS)"
   ]
 }

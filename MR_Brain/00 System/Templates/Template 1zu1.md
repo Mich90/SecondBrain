@@ -25,7 +25,8 @@ person:
 - *(größere Entscheidungen zusätzlich als eigene Notiz in [[05 Entscheidungen]] anlegen)*
 
 ## Action Items
-- [ ] 
+> Konvention: `- [ ] Verantwortung: [[Name]] | Beschreibung` (für eigene Aufgaben: `[[Eigene Action Items]]`)
+- [ ] Verantwortung:  | 
 
 ## Für nächstes Mal
 - 

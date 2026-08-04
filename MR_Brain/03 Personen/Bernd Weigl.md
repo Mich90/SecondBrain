@@ -24,8 +24,8 @@ seit:
 ## Offene Action Items aus 1:1s
 ```dataview
 TASK
-FROM #meeting AND #1zu1
-WHERE contains(file.outlinks, this.file.link) AND !completed
+FROM "04 Meetings"
+WHERE !completed AND contains(text, "Verantwortung: [[" + this.file.name + "]]")
 ```
 
 ## 1:1-Historie
