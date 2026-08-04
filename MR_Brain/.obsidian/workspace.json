@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Ich/Erfolge.md",
+                "file": "02 Ich/Eigene Action Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erfolge"
+              "title": "Eigene Action Items"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "6929f962a3bc5643",
   "lastOpenFiles": [
+    "02 Ich/Erfolge.md",
     "02 Ich/Eigene Action Items.md",
     "03 Personen/Mario Zube.md",
     "04 Meetings/2026-08-13 1zu1 Mario Zube.md",
@@ -225,7 +226,6 @@
     "03 Personen/Nils Wittig.md",
     "02 Ich/Ziele 2026.md",
     "02 Ich/Über mich.md",
-    "02 Ich/Erfolge.md",
     "02 Ich/Prinzipien.md",
     "01 Shared/README.md",
     "01 Shared/01 Projects/01 Grouper/Architecture/DSL Engine.md",
