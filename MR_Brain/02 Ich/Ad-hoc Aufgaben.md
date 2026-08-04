@@ -23,7 +23,7 @@ Manuell erfasste Aufgaben außerhalb von Meetings. Ergänzung zu [[Eigene Action
 - [ ] 
 
 ### 🟢 Niedrig
-- [ ] für Rico : Brillenzuschuss
+- [ ] 
 
 ## Warten auf / Blockiert
 - [ ] 
