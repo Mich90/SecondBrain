@@ -4,11 +4,16 @@
   "title": "hi",
   "titleGenerationStatus": "failed",
   "createdAt": 1782893553256,
-  "updatedAt": 1782893627125,
-  "lastResponseAt": 1782893555167,
+  "lastActivityAt": 1782893555167,
   "sessionId": "7c8bfdd5-7a90-41db-8431-79cbda7c03de",
   "providerState": {
     "providerSessionId": "7c8bfdd5-7a90-41db-8431-79cbda7c03de"
+  },
+  "modelRecoverySource": {
+    "sessionId": "7c8bfdd5-7a90-41db-8431-79cbda7c03de",
+    "providerState": {
+      "providerSessionId": "7c8bfdd5-7a90-41db-8431-79cbda7c03de"
+    }
   },
   "usage": {
     "model": "sonnet",
